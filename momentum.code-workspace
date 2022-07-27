@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "momentum",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "momentum"
+	}
+}
